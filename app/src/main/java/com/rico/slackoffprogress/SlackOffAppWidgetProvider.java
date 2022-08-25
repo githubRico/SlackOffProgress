@@ -33,7 +33,9 @@ public class SlackOffAppWidgetProvider extends AppWidgetProvider
     @Override
     public void onReceive(Context context, Intent intent) {
         super.onReceive(context, intent);
+
     }
+
 
     //每删除一个就调用一次
     @Override
